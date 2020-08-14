@@ -1,5 +1,5 @@
 # EECS592-sudoku
-Project to solve Sudoku using AC3 algorithm
+Project to solve Sudoku using the Arc Consistency 3 (AC-3) algorithm
 
 ## Build requirements
 This project was developed and tested on Python 2.7. The only external package needed is ```numpy```
