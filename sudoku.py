@@ -113,12 +113,6 @@ def AC_3(Board):
     #D = domains (.avail)
     #C = constraints
 
-    ##Keep the queue ordered with the minimal remaining value heuristi. Priority queue?
-    #while queue is not empty:
-        ##Pop
-        #if revise() is true:
-
-
     ##First initial constraints
     for j in range(0, 9):
         for k in range(0, 9):
